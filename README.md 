@@ -1,0 +1,23 @@
+# Assignment 3 — Advanced CSS (Flexbox & Grid)
+
+This project is my submission for Assignment 3.  
+The theme of my website is **Movies**.  
+
+## Project Structure
+index.html → Home page (movie cards using Flexbox)  
+layout.html → Layout page (movie news article using CSS Grid)  
+gallery.html → Gallery page (at least 9 movie posters using CSS Grid)  
+portfolio.html → Portfolio page (my favorite movies using Flexbox + Grid)  
+css/style.css → Shared stylesheet  
+images/ → Contains images used on the site  
+report.docx → Report with explanations and screenshots  
+screenshots/ → Screenshots used in the report  
+
+## How to Open
+1. Download and unzip the project folder.  
+2. Open index.html in any web browser (Chrome, Firefox, Edge, etc.).  
+3. Use the navigation bar at the top to switch between pages.  
+
+## Notes
+The website is fully responsive (works on desktop and mobile).  
+All styling is done with **Flexbox** and **CSS Grid**.  
